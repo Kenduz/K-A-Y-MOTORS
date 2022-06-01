@@ -10,3 +10,16 @@ b{
 .nav-link{
     color: whitesmoke;
 }
+.banner{
+    height: 47vmax;
+    background-image: url(../images/car5.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+.banner h3{
+    font-size: 12.7vmax;
+}
+.banner p{
+    font-size: 3.0vmax;
+    text-shadow: 2px 2px white;
+}
