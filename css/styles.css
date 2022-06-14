@@ -11,7 +11,7 @@ b{
     color: whitesmoke;
 }
 .banner{
-    height: 47vmax;
+    height: 55vmax;
     background-image: url(../images/car5.jpg);
     background-repeat: none;
     background-size: cover;
@@ -22,4 +22,12 @@ b{
 .banner p{
     font-size: 3.0vmax;
     text-shadow: 2px 2px white;
+}
+
+.gal img{
+    width: 24vmax;
+}
+
+.row form input, form textarea{
+    width: 70%;
 }
